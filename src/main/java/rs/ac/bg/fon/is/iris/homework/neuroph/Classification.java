@@ -21,7 +21,7 @@ import org.neuroph.util.TransferFunctionType;
  *
  * @author Ognjen Simic
  */
-public class IrisHomework {
+public class Classification {
 
     public static void main(String[] args) {
         System.out.println((new File("test")).getAbsolutePath());;
